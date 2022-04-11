@@ -39,7 +39,7 @@ jobs:
         with:
           repository: unity-sds/unity-cs-sps-demo
           path: resources/deployable
-          ref: deployment_test_jpl_aws
+          ref: smolenski_tf_test_jpl_aws
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
